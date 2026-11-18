@@ -2,7 +2,6 @@ package com.puce.veterinaria.controller;
 
 
 import com.puce.veterinaria.model.Dueno;
-import com.puce.veterinaria.model.Mascota;
 import com.puce.veterinaria.service.DuenoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
